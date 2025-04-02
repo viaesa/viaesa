@@ -1,17 +1,54 @@
-👋 Hi, I’m @viaesa
+Hi there! 👋 I'm Victoria (@viaesa)
 
-👀 I’m interested in data analytics, business intelligence, and leveraging data to drive insights.
+🚀 Aspiring Data Analyst | SQL | Business Insights | Data-Driven Decision Making
 
-🌱 I’m currently learning SQL, data visualization, and business analysis techniques.
+👩‍💻 About Me
 
-💞️ I’m looking to collaborate on data-driven projects that optimize decision-making and improve efficiency.
+- I have a diverse background in education, HR, and business analytics, and I’m transitioning into data analytics to leverage my skills in SQL, financial analysis, and data visualization. My passion lies in uncovering insights that drive better decision-making.
 
-📫 How to reach me: vanguloespi@gmail.com | LinkedIn | GitHub
+👀 Interests
 
-😄 Pronouns: She/Her
+- Data Analytics & Business Intelligence
 
-⚡ Fun fact: I have a background in education and HR, which helps me bring a unique perspective to data analysis!
+- Cost Analysis & Financial Optimization
 
+- Data Visualization & Dashboard Design
+
+- Process Improvement & Automation
+
+🌱 Currently Learning
+
+- Advanced SQL for data querying & manipulation
+
+- Business data visualization tools
+
+- Data-driven decision-making strategies
+
+💼 Open to Collaboration
+
+- I’m looking to collaborate on outsourcing projects related to data analytics, business intelligence, and process automation. If you need help with SQL-based analysis, cost optimization, or data visualization, let’s connect!
+
+🛠️ Tech Skills
+
+- Primary Skills: SQL | Data Analysis | Business Intelligence | Data Visualization | Financial Analysis | Regulatory Compliance
+
+📂 Portfolio & Contact
+
+- 📫 How to reach me: vanguloespi@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/victoria-angulo-espinosa
+- 🌍 Portfolio: 
+- 📍 Based in San Juan, PR
+- Willing to Relocate
+
+⚡ Fun Facts
+
+- I have a strong problem-solving mindset thanks to my background in education & HR!
+
+- I love digging into data to uncover hidden trends and opportunities.
+
+- Fluent in Spanish & English—data speaks every language!
+
+- I used to be a cat rescuer and am a passionate animal lover!
 <!---
 viaesa/viaesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
