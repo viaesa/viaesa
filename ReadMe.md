@@ -16,7 +16,7 @@ Hi there! 👋 I'm Victoria (@viaesa)
 
 - Process Improvement & Automation
 
-🌱 Currently Learning
+🌱 Currently Self-Improving
 
 - Curriculum Development
 
