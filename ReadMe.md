@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Victoria (@viaesa)
 
-🚀 Aspiring Data Analyst | SQL | Business Insights | Data-Driven Decision Making
+🚀 Aspiring Business Intelligence Data Analyst | SQL | Business Insights | Data-Driven Decision Making
 
 👩‍💻 About Me
 
@@ -18,11 +18,7 @@ Hi there! 👋 I'm Victoria (@viaesa)
 
 🌱 Currently Learning
 
-- Advanced SQL for data querying & manipulation
-
-- Business data visualization tools
-
-- Data-driven decision-making strategies
+- Curriculum Development
 
 💼 Open to Collaboration
 
@@ -38,7 +34,6 @@ Hi there! 👋 I'm Victoria (@viaesa)
 - 🔗 LinkedIn: www.linkedin.com/in/victoria-angulo-espinosa
 - 🌍 Portfolio: 
 - 📍 Based in San Juan, PR
-- Willing to Relocate
 
 ⚡ Fun Facts
 
@@ -46,7 +41,7 @@ Hi there! 👋 I'm Victoria (@viaesa)
 
 - I love digging into data to uncover hidden trends and opportunities.
 
-- Fluent in Spanish & English—data speaks every language!
+- Fluent in Spanish & English—data!
 
 - I used to be a cat rescuer and am a passionate animal lover!
 <!---
